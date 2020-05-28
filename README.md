@@ -1,4 +1,5 @@
 # self-play-paper
+## paper list
 |Paper Name|Points|
 |--|--|
 |1. Mastering the game of go with deep neural networks and tree search||
@@ -8,3 +9,4 @@
 |5. Dota 2 with Large Scale Deep Reinforcement Learning||
 |6. Grandmaster level in StarCraft II using multi-agent reinforcement learning||
 |7. Fictitious Self-Play in Extensive-Form Games||
+## url list
